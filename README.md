@@ -1,1 +1,1 @@
-This repo contains helper infrastructure classes for making s Java or Scala server app using the Spring framework
+This repo contains helper infrastructure classes for making a Java or Scala server app using the Spring framework
